@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpFlannel", "SharpFlannel\SharpFlannel.csproj", "{F659CFC3-ECDF-4173-B710-7B6768C6E784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpFlannel.Tests", "SharpFlannel.Tests\SharpFlannel.Tests.csproj", "{DC0F03D6-1292-4A9A-AB81-AE166A6E3F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F659CFC3-ECDF-4173-B710-7B6768C6E784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F659CFC3-ECDF-4173-B710-7B6768C6E784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F659CFC3-ECDF-4173-B710-7B6768C6E784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F659CFC3-ECDF-4173-B710-7B6768C6E784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0F03D6-1292-4A9A-AB81-AE166A6E3F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0F03D6-1292-4A9A-AB81-AE166A6E3F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0F03D6-1292-4A9A-AB81-AE166A6E3F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0F03D6-1292-4A9A-AB81-AE166A6E3F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

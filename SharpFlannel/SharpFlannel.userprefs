@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F659CFC3-ECDF-4173-B710-7B6768C6E784}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharpFlannel/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="SharpFlannel/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SharpFlannel PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
